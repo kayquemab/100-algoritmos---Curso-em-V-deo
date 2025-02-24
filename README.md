@@ -12,7 +12,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 02 - CONDIÇÕES BÁSICAS<br>
 ├── 📂 PASSO 03 - CONDIÇÕES COMPOSTAS<br>
 ├── 📂 PASSO 04 – REPETIÇÕES ENQUANTO<br>
-├── 📑 exercicios-algoritmos<br>
+└── 📑 exercicios-algoritmos<br>
 
 🚀 Como Usar
 
