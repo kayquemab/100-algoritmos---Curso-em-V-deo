@@ -16,7 +16,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 
 🚀 Como Usar
 
-- 1° Clone o repositório
+- 1° Clone o repositório <br>
 link: (https://github.com/kayquemab/Algoritmos.git)
 
 - 2° Acesse a pasta + PDF com a lista dos tipos de algoritmos
