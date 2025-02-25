@@ -11,7 +11,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 01 - SEQUÊNCIAS BÁSICAS<br>
 ├── 📂 PASSO 02 - CONDIÇÕES BÁSICAS<br>
 ├── 📂 PASSO 03 - CONDIÇÕES COMPOSTAS<br>
-├── 📂 PASSO 04 – REPETIÇÕES ENQUANTO<br>
+├── 📂 PASSO 04 - REPETIÇÕES ENQUANTO<br>
 └── 📑 exercicios-algoritmos<br>
 
 🚀 Como Usar
