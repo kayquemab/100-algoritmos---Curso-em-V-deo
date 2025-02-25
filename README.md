@@ -11,12 +11,12 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 01 - SEQUÊNCIAS BÁSICAS<br>
 ├── 📂 PASSO 02 - CONDIÇÕES BÁSICAS<br>
 ├── 📂 PASSO 03 - CONDIÇÕES COMPOSTAS<br>
-├── 📂 PASSO 04 – REPETIÇÕES ENQUANTO<br>
+├── 📂 PASSO 04 - REPETIÇÕES ENQUANTO<br>
 └── 📑 exercicios-algoritmos<br>
 
 🚀 Como Usar
 
-- 1° Clone o repositório
+- 1° Clone o repositório <br>
 link: (https://github.com/kayquemab/Algoritmos.git)
 
 - 2° Acesse a pasta + PDF com a lista dos tipos de algoritmos
