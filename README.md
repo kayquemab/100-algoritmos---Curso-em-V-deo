@@ -1,11 +1,11 @@
 # 100 Algoritmos - Curso em Vídeo
 Repositório com a resolução dos 100 algoritmos do curso de Algoritmos do Curso em Vídeo, ministrado por Gustavo Guanabara.
 
-📌 Sobre
+### 📌 Sobre
 
 Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar lógica de programação.
 
-📂 Estrutura
+### 📂 Estrutura
 
 📂 Exercicios-algoritmos<br>
 ├── 📂 PASSO 01 - SEQUÊNCIAS BÁSICAS<br>
@@ -15,18 +15,18 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 05 - ENQUANTO COM FLAG<br>
 └── 📑 exercicios-algoritmos<br>
 
-🚀 Como Usar
+### 🚀 Como Usar
 
-- 1° Clone o repositório <br>
+1. Clone o repositório <br>
 link: (https://github.com/kayquemab/Algoritmos.git)
 
-- 2° Acesse a pasta + PDF com a lista dos tipos de algoritmos
-- 3° Execute os algoritmos no programa Visualg3.0
+2. Acesse a pasta + PDF com a lista dos tipos de algoritmos
+3. Execute os algoritmos no programa Visualg3.0
 
-🤝 Contribuição
+### 🤝 Contribuição
 
 Sugestões são bem-vindas! Abra um Pull Request.
 
-📜 Licença
+### 📜 Licença
 
 MIT. Use e modifique como quiser.
